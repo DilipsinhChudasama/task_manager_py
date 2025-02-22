@@ -1,0 +1,70 @@
+========================================
+  Welcome to Task Manager
+========================================
+1. Login
+2. Register
+3. Exit
+Enter your choice: 2
+
+----- REGISTER -----
+Enter a new username: alice
+Enter a new password: ****
+Registration successful. Please log in.
+
+========================================
+  Welcome to Task Manager
+========================================
+1. Login
+2. Register
+3. Exit
+Enter your choice: 1
+
+----- LOGIN -----
+Enter username: alice
+Enter password: ****
+Login successful!
+
+----- TASK MANAGER MENU -----
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Delete Task
+5. Logout
+Enter your choice: 1
+
+Enter task description: Buy groceries
+Task added successfully with ID 1!
+
+----- TASK MANAGER MENU -----
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Delete Task
+5. Logout
+Enter your choice: 2
+
+----- VIEW TASKS -----
+ID | Description      | Status
+--------------------------------
+1  | Buy groceries    | Pending
+
+----- TASK MANAGER MENU -----
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Delete Task
+5. Logout
+Enter your choice: 3
+
+Enter the Task ID to mark completed: 1
+Task marked as completed!
+
+----- TASK MANAGER MENU -----
+1. Add Task
+2. View Tasks
+3. Mark Task as Completed
+4. Delete Task
+5. Logout
+Enter your choice: 5
+
+Logging out...
